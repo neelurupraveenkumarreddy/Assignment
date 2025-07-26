@@ -1,0 +1,59 @@
+.ledger-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.ledger-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.loan-details {
+  margin-bottom: 20px;
+}
+
+.transaction-title {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.transaction-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.transaction-table th,
+.transaction-table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+.transaction-table th {
+  background-color: #f5f5f5;
+}
+
+.loading-text {
+  font-size: 16px;
+  color: #666;
+}
+
+.loan-details {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 20px;
+  text-align: left;
+}
+
+.loan-details th,
+.loan-details td {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.loan-details th {
+  background-color: #f4f4f4;
+  font-weight: bold;
+}

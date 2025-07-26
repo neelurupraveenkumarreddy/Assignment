@@ -1,0 +1,35 @@
+.loans-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.loans-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+}
+
+.loans-table th,
+.loans-table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+.loans-table th {
+  background-color: #f5f5f5;
+}
+
+.customer button {
+  padding: 8px 12px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin:5px;
+}
+
+.customer button:hover {
+  background-color: #218838;
+}

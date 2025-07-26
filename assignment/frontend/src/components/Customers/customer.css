@@ -1,0 +1,57 @@
+.customers-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.customers-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.customers-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.customers-table th,
+.customers-table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+.customers-table th {
+  background-color: #f5f5f5;
+}
+
+.loading-text {
+  font-size: 16px;
+  color: #666;
+}
+
+.customer-form {
+  margin-bottom: 20px;
+  display: flex;
+  gap: 10px;
+}
+
+.customer-form input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.customer-form button {
+  padding: 8px 12px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.customer-form button:hover {
+  background-color: #218838;
+}
+
